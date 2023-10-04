@@ -1,0 +1,7 @@
+/home/coder/project/workspace/springapp/src/main/java/com/examly/springapp/service/ApiService.java
+/home/coder/project/workspace/springapp/src/main/java/com/examly/springapp/controller/ApiController.java
+/home/coder/project/workspace/springapp/src/main/java/com/examly/springapp/model/Account.java
+/home/coder/project/workspace/springapp/src/main/java/com/examly/springapp/repository/AccountRepo.java
+/home/coder/project/workspace/springapp/src/main/java/com/examly/springapp/model/User.java
+/home/coder/project/workspace/springapp/src/main/java/com/examly/springapp/SpringappApplication.java
+/home/coder/project/workspace/springapp/src/main/java/com/examly/springapp/repository/UserRepo.java
